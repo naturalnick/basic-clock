@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: gray;
+  color: white;
+}
+
+h1 {
+  font-size: 40pt;
+}
+
+.time {
+  font-size: 70pt;
+}
+
+.date {
+  font-size: 56pt;
+}
