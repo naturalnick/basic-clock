@@ -50,11 +50,15 @@ window.onload = function() {
 
   //set up and return a formatted time string
   function getCurrentTimeString(date) {
+    var hour = date.getHours();
+    var meridian = ""
 
     //convert hour from military time
-    var hour = date.getHours();
     if (hour > 12) {
       hour -= 12;
+      meridian = "PM";
+    } else {
+      meridian = "AM"
     }
 
     var min = date.getMinutes().toString();
@@ -69,7 +73,7 @@ window.onload = function() {
       }
     }
 
-    return timeArr[0] + ":" + timeArr[1] + ":" + timeArr[2];
+    return timeArr[0] + ":" + timeArr[1] + ":" + timeArr[2] + " " + meridian;
   }
 
 };
