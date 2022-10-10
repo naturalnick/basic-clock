@@ -2,7 +2,7 @@
 
 <p><em>Shows the current time using Javascript.</em></p>
 
-<p>See it in action <a href="#ADD-URL-HERE">here</a>.</p>
+<p>See it in action <a href="https://naturalnick.github.io/basic-clock/">here</a>.</p>
 
 <h2>Summary</h2>
 <p>
