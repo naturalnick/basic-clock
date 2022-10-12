@@ -1,12 +1,23 @@
-<h1>Basic Javascript Clock</h1>
+# Basic Javascript Clock
 
-<p><em>Shows the current time using Javascript.</em></p>
+<br>
 
-<p>See it in action <a href="https://naturalnick.github.io/basic-clock/">here</a>.</p>
+_A basic website displaying the current time using Javascript._
 
-<h2>Summary</h2>
-<p>
+<br>
+
+See it in action [here](https://naturalnick.github.io/basic-clock)
+
+<br>
+
+<image src="images/screenshot.png">
+
+## Summary
+
 This website is a simple demonstration of using Javascript to display the current time.
-</p>
 
-<h3>Author: Nick Schaefer</h3>
+There were more steps involved in formatting a date from scratch than I thought. It proved to be a fun simple challenge that took me about 3 hours to complete.
+
+## Author
+
+- **Nick Schaefer** - _Full-Stack Software Developer_ - [Website](https://nschaefer.com/) | [LinkedIn](https://www.linkedin.com/in/nick-n-schaefer)
